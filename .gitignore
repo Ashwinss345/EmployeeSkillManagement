@@ -482,3 +482,18 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Claude Code temporary files
+tmpclaude-*/
+.claude/
+
+# IDE temporary files
+*.temp
+.temp/
+.tmp/
+
+# Editor backup files
+*~
+*.bak
+*.swp
+*.swo
